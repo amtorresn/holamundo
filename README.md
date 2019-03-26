@@ -13,5 +13,6 @@ primer repo de métodos
   Segunda línea </p>
   
 #### Tipos de letra:
-* Negrilla: <strong> hola </strong>
-* Cursiva : <em> hola </em>
+<ol>
+  <li> Negrilla: <strong> hola </strong> </li>
+  <li> Cursiva : <em> hola </em> </li>
