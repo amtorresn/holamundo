@@ -1,7 +1,7 @@
 # Holamundo
 ## Subtítulo
 ### Sección
-primer repo de métodos
+Primer repo de métodos
 
 #### Lista:
 * Primer elemento
